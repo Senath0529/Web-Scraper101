@@ -1,0 +1,19 @@
+>>This was a good project to get the idea of how a web scraper works.
+>>Provided the functionality of accessing the html file of the relevant webpage and "scraping"
+the information in the specific tags.
+>>This can be setup to repeat in a specific time frame in which it will rescrape the the webpage for information.
+>>This is a good way to get information from a specific website and format the data in a way which will be easier for you to go through.
+
+---improvements that can be made----
+
+>>setting up a way to scrape the whole website to get relevant information rather than just the page that is given access to..
+
+REGARDING AUTOMATION....
+
+>>process of automation if signing in is required...
+>>request input from the user for logging in (if required)..and information that is needed for the search...(eg: apprenticeships)
+>>Integrating the results to a googlesheets to be viewed. 
+
+QUESTIONS....
+>>Can this process be more streamlined
+>>How to push the data scraped to a software like googlesheets, word, Airtable etc.
